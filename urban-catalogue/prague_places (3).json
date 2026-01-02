@@ -1,0 +1,227 @@
+[
+  {
+    "name": "NeverEnough",
+    "address": "Náměstí Jiřího z Poděbrad 18",
+    "category": "Shop",
+    "rating": 3,
+    "comment": "Our HQ.",
+    "lat": 50.0776174,
+    "lng": 14.4523512
+  },
+  {
+    "name": "Fermé",
+    "address": "Lucemburská 1492/27, Praha 3",
+    "category": "Bar",
+    "rating": 2,
+    "comment": "příjemnej bar a super jídlo. ",
+    "lat": 50.0789574,
+    "lng": 14.4544201
+  },
+  {
+    "name": "Bukowski's",
+    "lat": 50.0829988,
+    "lng": 14.4487842,
+    "category": "Bar",
+    "address": "Bořivojova 689/86",
+    "rating": 3,
+    "comment": "Classic."
+  },
+  {
+    "name": "CAFEFIN",
+    "lat": 50.0781042,
+    "lng": 14.4484106,
+    "category": "Cafe",
+    "address": "nám. J. z Poděbrad 1407/4",
+    "rating": 3,
+    "comment": "Hipster central."
+  },
+  {
+    "name": "Le Caveau Bakery",
+    "lat": 50.0785822,
+    "lng": 14.4499728,
+    "category": "Bakery",
+    "address": "nám. J. z Poděbrad 1561/9",
+    "rating": 3,
+    "comment": ""
+  },
+  {
+    "name": "BeerGeek Bar",
+    "lat": 50.0770861,
+    "lng": 14.4500183,
+    "category": "Bar",
+    "address": "Vinohradská 62",
+    "rating": 3,
+    "comment": "Craft beer heaven."
+  },
+  {
+    "name": "Stalin",
+    "address": "Letná Park",
+    "category": "Spot",
+    "rating": 1,
+    "comment": "Views & Skate.",
+    "lat": 50.094827,
+    "lng": 14.416105
+  },
+  {
+    "name": "Bike Jesus",
+    "address": "Ostrov Štvanice 1125",
+    "category": "Club",
+    "rating": 3,
+    "comment": "jeden z nejlepších klubů",
+    "lat": 50.0963,
+    "lng": 14.4415
+  },
+  {
+    "name": "Twist bar",
+    "address": "Vlkova 26, Praha 3",
+    "category": "Bar",
+    "rating": 3,
+    "comment": "DJs, drinks, pohoda. ",
+    "lat": 50.0833603,
+    "lng": 14.446856
+  },
+  {
+    "name": "Sandokan Vegan Bistro",
+    "address": "Korunní 1172/81, 130 00 Vinohrady",
+    "category": "Food",
+    "rating": 3,
+    "comment": "Nejlepší vegan jídlo v okolí a skvělej pan šéf!",
+    "lat": 50.0754995,
+    "lng": 14.4514912
+  },
+  {
+    "name": "Blumery",
+    "address": "Náměstí Jiřího z Poděbrad 17, Praha 3",
+    "category": "Cafe",
+    "rating": 1,
+    "comment": "Naši sousedé, skvělá káva, drinky a jídlo. ",
+    "lat": 50.0778097,
+    "lng": 14.4522679
+  },
+  {
+    "name": "Ankali",
+    "address": "Lopuchová 58 /6, 101 00 Praha 10-Vršovice",
+    "category": "Club",
+    "rating": 3,
+    "comment": "skvělý alternativní klub",
+    "lat": 50.0638256,
+    "lng": 14.4570935
+  },
+  {
+    "name": "KRO kitchen",
+    "address": "Vinohradská 66",
+    "category": "Food",
+    "rating": 3,
+    "comment": "Kuřecí kamarádi",
+    "lat": 50.0771222,
+    "lng": 14.4507504
+  },
+  {
+    "name": "Pho Vietnam Tuan & Lan",
+    "address": "Slavíkova 1, Hlavní město Praha",
+    "category": "Food",
+    "rating": 2,
+    "comment": "Skvělé PHO, cash only. ",
+    "lat": 50.0784475,
+    "lng": 14.4482664
+  },
+  {
+    "name": "Roma Uno",
+    "address": "Jagellonská 1634/16, Hlavní město Praha",
+    "category": "Bar",
+    "rating": 1,
+    "comment": "All night long Pizza, afterparty jak vyšitá. :)",
+    "lat": 50.0794822,
+    "lng": 14.4537419
+  },
+  {
+    "name": "U Dolejších",
+    "address": "Lucemburská, Hlavní město Praha",
+    "category": "Food",
+    "rating": 1,
+    "comment": "řeznictví, nejlepší mortadela a šunka. ",
+    "lat": 50.0785273,
+    "lng": 14.4520079
+  },
+  {
+    "name": "U Tellerů",
+    "address": "Vinohradská 78, Hlavní město Praha",
+    "category": "Food",
+    "rating": 2,
+    "comment": "Nejlepší obědy",
+    "lat": 50.0771791,
+    "lng": 14.4521443
+  },
+  {
+    "name": "Kus Koláče",
+    "address": "Korunní, Hlavní město Praha",
+    "category": "Food",
+    "rating": 3,
+    "comment": "top koláče",
+    "lat": 50.0752846,
+    "lng": 14.4533386
+  },
+  {
+    "name": "Coffee Room",
+    "address": "Korunní 1208/, Hlavní město Praha",
+    "category": "Cafe",
+    "rating": 2,
+    "comment": "skvělá káva",
+    "lat": 50.0752458,
+    "lng": 14.4512934
+  },
+  {
+    "name": "Hostinec v Lucemburské",
+    "address": "Lucemburská, Hlavní město Praha",
+    "category": "Bar",
+    "rating": 2,
+    "comment": "správná 4ka, malej panák za 18 Kč. :)",
+    "lat": 50.0790337,
+    "lng": 14.4560633
+  },
+  {
+    "name": "Na Schůdku",
+    "address": "Polská 1532/48, Hlavní město Praha",
+    "category": "Club",
+    "rating": 3,
+    "comment": "Skvělá Plzeň, hlavně v létě.",
+    "lat": 50.0784666,
+    "lng": 14.4457386
+  },
+  {
+    "name": "Hospoda U Benyho",
+    "address": "Budečská 1168, 120 00 Vinohrady",
+    "category": "Bar",
+    "rating": 3,
+    "comment": "skvělá hospoda.",
+    "lat": 50.0775785,
+    "lng": 14.4421492
+  },
+  {
+    "name": "Výčep",
+    "address": "Korunní, Hlavní město Praha",
+    "category": "Food",
+    "rating": 2,
+    "comment": "Skvělé lokální obědy. Dražší. ",
+    "lat": 50.0752577,
+    "lng": 14.4536258
+  },
+  {
+    "name": "U Kruhu",
+    "address": "Palackého, Hlavní město Praha",
+    "category": "Bar",
+    "rating": 3,
+    "comment": "supr hospoda",
+    "lat": 50.0809011,
+    "lng": 14.4232637
+  },
+  {
+    "name": "Never Enough Old Town",
+    "address": "Celetná 12, Praha 1",
+    "category": "Shop",
+    "rating": 3,
+    "comment": "naše pobočka na starém městě.",
+    "lat": 50.0869425,
+    "lng": 14.4232246
+  }
+]
